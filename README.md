@@ -1,20 +1,24 @@
 [![MasterHead](https://media.discordapp.net/attachments/1126406043220586517/1131928328169869322/fko.png?width=1440&height=561)](https://nitinog.io)
 
  <h1 align="center">Hi 👋, I'm Nitin Kumar</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3> <img  height="50px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> 
+ <div>
+<h3  align="center">A passionate Full Stack Web Developer</h3> 
+</div>
 
 <img align="right" height="400px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" >
+
+
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **amazon clone**
+- 🔭 I’m currently working on **development of an online retailing website**
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **full stack web dev**
 
 - 🍹 C ,C++ ,PYTHON
 
-- 📫 How to reach me **nitinog0001@gmail.com**
+- 📫 How to reach me -  <a href="mailto:nitinog0001@gmail.com"> Mail me :) </a>
 
 - ⚡  **Code and Coffee**
 
