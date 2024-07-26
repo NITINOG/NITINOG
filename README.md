@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/xJhzrdNv/fko-2.png)](https://nitinog.io)
+/* [![MasterHead](https://i.postimg.cc/xJhzrdNv/fko-2.png)](https://nitinog.io)*/
 
  <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nitin+Kumar;A+Full+Stack+Web+Developer;Lets+Build+Something+Togther+!!!" alt="Typing SVG" /></a></h1>
  <div>
